@@ -1,0 +1,10 @@
+C:\Users\Vojta\source\repos\Epicycloids\Epicycloids\bin\Debug\Epicycloids.exe
+C:\Users\Vojta\source\repos\Epicycloids\Epicycloids\bin\Debug\Epicycloids.pdb
+C:\Users\Vojta\source\repos\Epicycloids\Epicycloids\obj\Debug\Epicycloids.csprojAssemblyReference.cache
+C:\Users\Vojta\source\repos\Epicycloids\Epicycloids\obj\Debug\Epicycloids.Form1.resources
+C:\Users\Vojta\source\repos\Epicycloids\Epicycloids\obj\Debug\Epicycloids.Properties.Resources.resources
+C:\Users\Vojta\source\repos\Epicycloids\Epicycloids\obj\Debug\Epicycloids.csproj.GenerateResource.cache
+C:\Users\Vojta\source\repos\Epicycloids\Epicycloids\obj\Debug\Epicycloids.csproj.CoreCompileInputs.cache
+C:\Users\Vojta\source\repos\Epicycloids\Epicycloids\obj\Debug\Epicycloids.exe
+C:\Users\Vojta\source\repos\Epicycloids\Epicycloids\obj\Debug\Epicycloids.pdb
+C:\Users\Vojta\source\repos\Epicycloids\Epicycloids\obj\Debug\Epicycloids.Form2.resources
